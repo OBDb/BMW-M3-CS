@@ -1,0 +1,12 @@
+references:
+  - "https://en.wikipedia.org/wiki/BMW_M3"
+
+generations:
+  - name: "F80 M3 CS"
+    start_year: 2018
+    end_year: 2018
+    description: "The limited F80 M3 with the S55 twin-turbo straight-six."
+  - name: "G80 M3 CS"
+    start_year: 2024
+    end_year: null
+    description: "The limited G80 M3 sedan and Touring with the S58 straight-six."
