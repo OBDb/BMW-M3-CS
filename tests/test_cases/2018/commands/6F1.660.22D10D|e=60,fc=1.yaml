@@ -1,0 +1,62 @@
+command_id: 6F1.660.22D10D|e=60,fc=1
+test_cases:
+- expected_values:
+    M3CS_ODO: 61828
+    M3CS_ODO_ALT: 61828
+  response: |-
+    660F1100B62D10D0000
+    660F121F1840000F184
+- expected_values:
+    M3CS_ODO: 61851
+    M3CS_ODO_ALT: 61851
+  response: |-
+    660F1100B62D10D0000
+    660F121F19B0000F19B
+- expected_values:
+    M3CS_ODO: 61852
+    M3CS_ODO_ALT: 61852
+  response: |-
+    660F1100B62D10D0000
+    660F121F19C0000F19C
+- expected_values:
+    M3CS_ODO: 61853
+    M3CS_ODO_ALT: 61853
+  response: |-
+    660F1100B62D10D0000
+    660F121F19D0000F19D
+- expected_values:
+    M3CS_ODO: 61854
+    M3CS_ODO_ALT: 61854
+  response: |-
+    660F1100B62D10D0000
+    660F121F19E0000F19E
+- expected_values:
+    M3CS_ODO: 61855
+    M3CS_ODO_ALT: 61855
+  response: |-
+    660F1100B62D10D0000
+    660F121F19F0000F19F
+- expected_values:
+    M3CS_ODO: 61925
+    M3CS_ODO_ALT: 61925
+  response: |-
+    660F1100B62D10D0000
+    660F121F1E50000F1E5
+- expected_values:
+    M3CS_ODO: 62039
+    M3CS_ODO_ALT: 62039
+  response: |-
+    660F1100B62D10D0000
+    660F121F2570000F257
+- expected_values:
+    M3CS_ODO: 62040
+    M3CS_ODO_ALT: 62040
+  response: |-
+    660F1100B62D10D0000
+    660F121F2580000F258
+- expected_values:
+    M3CS_ODO: 62041
+    M3CS_ODO_ALT: 62041
+  response: |-
+    660F1100B62D10D0000
+    660F121F2590000F259
