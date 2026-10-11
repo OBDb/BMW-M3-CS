@@ -1,0 +1,22 @@
+command_id: 6F1.640.221700|e=40,fc=1
+test_cases:
+- expected_values:
+    M3CS_ODO_2: 61825
+  response: |-
+    640F110076217000000
+    640F121F181FFFFFFFF
+- expected_values:
+    M3CS_ODO_2: 61849
+  response: |-
+    640F110076217000000
+    640F121F199FFFFFFFF
+- expected_values:
+    M3CS_ODO_2: 61922
+  response: |-
+    640F110076217000000
+    640F121F1E2FFFFFFFF
+- expected_values:
+    M3CS_ODO_2: 62027
+  response: |-
+    640F110076217000000
+    640F121F24BFFFFFFFF
