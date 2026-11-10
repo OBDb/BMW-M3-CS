@@ -1,0 +1,26 @@
+command_id: 6F1.612.2257C3|e=12,fc=1
+test_cases:
+- expected_values:
+    M3CS_OIL_TEMP_ALT: 111.3
+  response: 612F1056257C30459
+- expected_values:
+    M3CS_OIL_TEMP_ALT: 114.8
+  response: 612F1056257C3047C
+- expected_values:
+    M3CS_OIL_TEMP_ALT: 116
+  response: 612F1056257C30488
+- expected_values:
+    M3CS_OIL_TEMP_ALT: 116.2
+  response: 612F1056257C3048A
+- expected_values:
+    M3CS_OIL_TEMP_ALT: 116.6
+  response: 612F1056257C3048E
+- expected_values:
+    M3CS_OIL_TEMP_ALT: 117.8
+  response: 612F1056257C3049A
+- expected_values:
+    M3CS_OIL_TEMP_ALT: 117.9
+  response: 612F1056257C3049B
+- expected_values:
+    M3CS_OIL_TEMP_ALT: 118.4
+  response: 612F1056257C304A0

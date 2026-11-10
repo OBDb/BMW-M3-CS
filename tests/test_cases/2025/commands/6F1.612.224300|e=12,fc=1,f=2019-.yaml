@@ -1,0 +1,23 @@
+command_id: 6F1.612.224300|e=12,fc=1,f=2019-
+test_cases:
+- expected_values:
+    M3CS_ET: 91.95
+  response: 612F1056243000E43
+- expected_values:
+    M3CS_ET: 93.95
+  response: 612F1056243000E57
+- expected_values:
+    M3CS_ET: 95.45
+  response: 612F1056243000E66
+- expected_values:
+    M3CS_ET: 95.55
+  response: 612F1056243000E67
+- expected_values:
+    M3CS_ET: 96.85
+  response: 612F1056243000E74
+- expected_values:
+    M3CS_ET: 97.65
+  response: 612F1056243000E7C
+- expected_values:
+    M3CS_ET: 98.65
+  response: 612F1056243000E86
